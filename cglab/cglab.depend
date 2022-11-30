@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669644158 source:c:\users\asus\onedrive\desktop\cglab\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+

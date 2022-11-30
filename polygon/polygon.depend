@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669646185 source:c:\users\asus\onedrive\desktop\polygon\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<process.h>
+
