@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669894951 source:c:\users\asus\onedrive\desktop\circle\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
